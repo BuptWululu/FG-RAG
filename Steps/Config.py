@@ -10,8 +10,8 @@ chunk_overlap = 100
 max_gleaning_times = 1
 
 generator_api_key = 'sk-xxx'
-generator_base_url = 'https://'
-generator_path = 'gpt-4o-mini'
+generator_base_url = 'https:'
+generator_name = 'gpt-4o-mini'
 generate_parallel = 32
 generate_request_timeout = 60
 generate_max_retries = 20

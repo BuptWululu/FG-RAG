@@ -1,4 +1,4 @@
-from Config import generator_path, generator_api_key, generator_base_url, generate_parallel, generate_request_timeout, generate_max_retries
+from Config import generator_name, generator_api_key, generator_base_url, generate_parallel, generate_request_timeout, generate_max_retries
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from openai import OpenAI
 from tqdm import tqdm
@@ -27,7 +27,7 @@ class Generator:
                 messages.extend(history)
                 messages.append({"role": "user", "content": prompt})
                 response = client.chat.completions.create(
-                    model=generator_path,
+                    model=generator_name,
                     messages=messages
                 )
                 msg = response.choices[0].message.content.strip()
@@ -68,7 +68,7 @@ class Generator:
         return [id2res[id] for id in sorted(id2res.keys())]
 
     
-    def generate(self, query_list, generator_path = generator_path, history_list = None, instruction_list = None):
+    def generate(self, query_list, history_list = None, instruction_list = None):
         if history_list == None:
             history_list = [[] for _ in range(len(query_list))]
         if instruction_list == None:
