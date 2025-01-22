@@ -1,7 +1,7 @@
 from datetime import datetime
 
 log_name = datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '.txt'
-work_dir = 'FG-RAG/Datasets/example'
+work_dir = 'Datasets/example'
 query_file = 'example.json'
 query_type = 'default'
 
