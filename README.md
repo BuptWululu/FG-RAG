@@ -1,4 +1,4 @@
-# FG-RAG: Enhancing Query-Focused Summarization with Context-Aware Fine-Grained Graph RAG
+# Context-Aware Fine-Grained Graph RAG for Query-Focused Summarization
 
 ![model](framework.png)
 
