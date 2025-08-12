@@ -24,9 +24,10 @@ encode_parallel = 32 # the number of parallel requests that may be made
 encode_request_timeout = 120
 encode_max_retries = 20
 
-initial_selected_entity_number = 20
-max_description_number = 75
-max_extract_entity_number = 9 
+# FG-RAG related parameters
+max_extract_entity_number = 9 # the maximum number of entities extracted from the query
+initial_selected_entity_number = 20 # the number of entities initially matched from the vector database per entity
+max_description_number = 75 # the maximum number of descriptions retrieved per entity
 
 naive_topk = 10 # the number of text chunks retrieved in NaiveRAG
 
