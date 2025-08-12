@@ -1,13 +1,9 @@
 from datetime import datetime
 
+# Path Related Configurations
 log_name = datetime.now().strftime('%Y-%m-%d %H:%M:%S') + '.txt'
 work_dir = 'Datasets/example'
 query_file = 'example.json'
-query_type = 'default' # Switch it to 'precise' to get an answer in the form of a word or entity.
-
-chunk_size = 1200
-chunk_overlap = 100
-max_gleaning_times = 1
 
 # Generator Related Configurations
 generator_api_key = 'sk-xxx'
@@ -26,13 +22,19 @@ encode_parallel = 32 # the number of parallel requests that may be made
 encode_request_timeout = 120
 encode_max_retries = 20
 
+# Splitter Related Configurations
+chunk_size = 1200
+chunk_overlap = 100
+
 # FG-RAG Related Configurations
+max_gleaning_times = 1 # the maximum number of times to glean more information
 max_extract_entity_number = 9 # the maximum number of entities extracted from the query
 initial_selected_entity_number = 20 # the number of entities initially matched from the vector database per entity
 max_description_number = 75 # the maximum number of descriptions retrieved per entity
-
-naive_topk = 10 # the number of text chunks retrieved in NaiveRAG
-
+query_type = 'default' # Switch it to 'precise' to get an answer in the form of a word or entity.
 tuple_delimiter = '<|>'
 record_delimiter = '##'
 completion_delimiter = "<|COMPLETE|>"
+
+# NaiveRAG Related Configurations
+naive_topk = 10 # the number of text chunks retrieved in NaiveRAG
