@@ -1,0 +1,377 @@
+[
+    {
+        "query": "How has the media coverage of AI technology evolved over the past year?"
+    },
+    {
+        "query": "What are the primary themes discussed in articles involving AI, according to recent publications?"
+    },
+    {
+        "query": "How does the frequency of articles related to AI compare to other technology topics?"
+    },
+    {
+        "query": "Which outlets or journalists contribute most frequently to AI discussions?"
+    },
+    {
+        "query": "Are there any noticeable changes in sentiment towards AI over the last few months?"
+    },
+    {
+        "query": "What controversies have had the most significant impact on public perception of AI companies?"
+    },
+    {
+        "query": "How do different media outlets portray controversies involving AI firms compared to other tech industries?"
+    },
+    {
+        "query": "What are common responses from AI companies when controversies arise, as reflected in the dataset?"
+    },
+    {
+        "query": "Have there been recurring themes or triggers in AI-related scandals?"
+    },
+    {
+        "query": "How are controversies in AI affecting investment and funding in the sector?"
+    },
+    {
+        "query": "Which tech leaders have been most frequently mentioned across articles, and in what context?"
+    },
+    {
+        "query": "How do these figures' public statements influence media narratives about AI?"
+    },
+    {
+        "query": "Are certain individuals associated more with innovations or controversies in AI?"
+    },
+    {
+        "query": "What are the prevalent opinions of tech leaders on the current political climate concerning AI?"
+    },
+    {
+        "query": "How have the public profiles of these leaders changed over the dataset's timeframe?"
+    },
+    {
+        "query": "What economic sectors are most impacted by AI advancements according to recent analyses?"
+    },
+    {
+        "query": "How do AI-related job opportunities and threats impact different industries?"
+    },
+    {
+        "query": "What are the predicted economic outcomes of increased AI integration in business and industry?"
+    },
+    {
+        "query": "How is AI investment distribution across different regions and sectors?"
+    },
+    {
+        "query": "What economic policies are being suggested or implemented in response to AI developments?"
+    },
+    {
+        "query": "How are international policies shaping the global AI landscape?"
+    },
+    {
+        "query": "What geopolitical tensions are highlighted concerning AI technology deployment?"
+    },
+    {
+        "query": "How does the AI strategy of various countries compare in terms of goals and execution?"
+    },
+    {
+        "query": "Are there collaborations or conflicts between countries in the AI domain discussed in the dataset?"
+    },
+    {
+        "query": "How do geopolitical issues influence global AI policy and development strategies?"
+    },
+    {
+        "query": "What are the identified growth areas within the AI sector according to recent reports?"
+    },
+    {
+        "query": "How do market projections for AI technologies align with current data and analysis?"
+    },
+    {
+        "query": "Which AI applications are predicted to experience the most growth in the next few years?"
+    },
+    {
+        "query": "How does investment in AI compare to other emerging technologies?"
+    },
+    {
+        "query": "Are there particular companies driving the market trends in AI technology?"
+    },
+    {
+        "query": "Which innovations in the AI field are capturing the most attention from industry professionals?"
+    },
+    {
+        "query": "How are new AI technologies solving existing industry challenges?"
+    },
+    {
+        "query": "What is the timeline from innovation to implementation for leading AI technologies?"
+    },
+    {
+        "query": "How does the lifecycle of AI innovations compare to traditional technology life cycles?"
+    },
+    {
+        "query": "Which sectors are leading in AI adoption, and what innovations are they prioritizing?"
+    },
+    {
+        "query": "What strategies are companies adopting to gain a competitive edge in AI development?"
+    },
+    {
+        "query": "How are leading companies differing in their approach to AI investments?"
+    },
+    {
+        "query": "What competitive pressures are arising in the AI market landscape?"
+    },
+    {
+        "query": "How are partnerships or mergers affecting competition in the AI sector?"
+    },
+    {
+        "query": "What role do acquisitions play in the growth strategies of leading AI companies?"
+    },
+    {
+        "query": "How are consumer applications of AI evolving according to the latest data?"
+    },
+    {
+        "query": "What demographics are most engaged with consumer AI products?"
+    },
+    {
+        "query": "What trends are emerging in consumer demand for AI-driven solutions?"
+    },
+    {
+        "query": "How are consumer applications of AI influencing user behavior and expectations?"
+    },
+    {
+        "query": "What are the privacy concerns associated with consumer AI and how are they being addressed?"
+    },
+    {
+        "query": "How are traditional industries adapting their business models to incorporate AI?"
+    },
+    {
+        "query": "Which sectors are experiencing the most disruption due to AI technologies?"
+    },
+    {
+        "query": "What are the cost-saving benefits of AI implementation in established industries?"
+    },
+    {
+        "query": "How are workforce dynamics changing in traditional industries with AI integration?"
+    },
+    {
+        "query": "What resistance or challenges are traditional industries facing regarding AI adoption?"
+    },
+    {
+        "query": "What are the primary ethical concerns associated with AI as discussed in the dataset?"
+    },
+    {
+        "query": "How is the concept of AI autonomy addressed in recent academic and industry publications?"
+    },
+    {
+        "query": "Which ethical AI frameworks are most widely acknowledged, and why?"
+    },
+    {
+        "query": "How do discussions of AI ethics differ across geographical or cultural contexts?"
+    },
+    {
+        "query": "In what ways are AI advancements challenging existing philosophical notions of intelligence and consciousness?"
+    },
+    {
+        "query": "How is AI being used to enhance learning experiences in educational institutions?"
+    },
+    {
+        "query": "What are the challenges in integrating AI into traditional educational methodologies?"
+    },
+    {
+        "query": "How are educators being trained to use AI tools in the classroom?"
+    },
+    {
+        "query": "What ethical considerations arise from using AI in education?"
+    },
+    {
+        "query": "How do AI-based educational outcomes compare to traditional education methods?"
+    },
+    {
+        "query": "What evidence suggests the presence of biases in AI algorithms according to the dataset?"
+    },
+    {
+        "query": "How are companies and researchers working to mitigate these biases?"
+    },
+    {
+        "query": "What impact do algorithmic biases have on public perception of AI?"
+    },
+    {
+        "query": "Which sectors are most affected by biased AI algorithms?"
+    },
+    {
+        "query": "How do biases in AI compare to biases in human decision-making?"
+    },
+    {
+        "query": "How is AI changing communication patterns among individuals and groups?"
+    },
+    {
+        "query": "What psychological effects are associated with increased AI interaction?"
+    },
+    {
+        "query": "How do different age demographics respond to AI in everyday life?"
+    },
+    {
+        "query": "What are the implications of AI on social behavior and norms?"
+    },
+    {
+        "query": "How does AI usage correlate with productivity and job satisfaction?"
+    },
+    {
+        "query": "In what ways is AI being used to tackle environmental challenges?"
+    },
+    {
+        "query": "How sustainable are AI energy usage models, and what improvements are being made?"
+    },
+    {
+        "query": "What role does AI play in predicting and mitigating climate change effects?"
+    },
+    {
+        "query": "How can AI contribute to the efficient management of natural resources?"
+    },
+    {
+        "query": "What policies are being suggested to ensure AI development aligns with sustainability goals?"
+    },
+    {
+        "query": "How do the performances of key athletes in the dataset compare across multiple games?"
+    },
+    {
+        "query": "What trends can be identified in team performances in high-stakes games referenced in the articles?"
+    },
+    {
+        "query": "How did injuries mentioned in the articles impact team dynamics and game outcomes?"
+    },
+    {
+        "query": "What are the significant statistical achievements highlighted in the sports summaries?"
+    },
+    {
+        "query": "How do fan reactions and media engagements surrounding these events reflect public sentiment?"
+    },
+    {
+        "query": "What key moments from the highlighted games influenced the final outcomes?"
+    },
+    {
+        "query": "How have historical matchups between teams shaped the narratives in the recent games discussed?"
+    },
+    {
+        "query": "In what ways do the controversies presented affect the legacy of the teams involved?"
+    },
+    {
+        "query": "How have player injuries from the dataset reshaped expectations for future matches?"
+    },
+    {
+        "query": "What future implications can be assessed based on player and team performances detailed in the articles?"
+    },
+    {
+        "query": "What anecdotes from the players and coaches can be incorporated to enhance storytelling?"
+    },
+    {
+        "query": "How do the featured players’ performances connect with broader themes in sports today?"
+    },
+    {
+        "query": "What narratives emerged from the games that could intrigue the audience?"
+    },
+    {
+        "query": "How do the statistics provided reshape our understanding of the game’s progress?"
+    },
+    {
+        "query": "What are the emotional beats that resonate with listeners about the athletes’ journeys?"
+    },
+    {
+        "query": "What patterns in team strategies can be extrapolated from the matches described?"
+    },
+    {
+        "query": "How do individual player performances factor into the upcoming match predictions?"
+    },
+    {
+        "query": "In what ways do the articles present potential future challenges for the teams?"
+    },
+    {
+        "query": "What are the key rivalries highlighted, and how do these impact future games?"
+    },
+    {
+        "query": "How does the current season’s performance compare to previous seasons based on the events described?"
+    },
+    {
+        "query": "What are the recurring themes in fan reactions to the events covered in the articles?"
+    },
+    {
+        "query": "How do these events serve to unite or divide fan bases according to the social media interactions noted?"
+    },
+    {
+        "query": "In what ways do influencers or public figures engage with these games on social media?"
+    },
+    {
+        "query": "What sentiments are expressed in fan discussions surrounding player performances noted in the articles?"
+    },
+    {
+        "query": "How do fan narratives develop through the seasons based on the stories shared in these games?"
+    },
+    {
+        "query": "How important is it to analyze opposing teams’ performance given our current playoff standing?"
+    },
+    {
+        "query": "What information in this dataset can directly inform changes to team strategies or philosophies?"
+    },
+    {
+        "query": "How can current standings influence evolving player selection for critical matchups?"
+    },
+    {
+        "query": "What are the most vital metrics to consider while scouting upcoming opponents based on this dataset?"
+    },
+    {
+        "query": "How does the playoff race affect roster decisions or trades leading into the future?"
+    },
+    {
+        "query": "What elements from this dataset would support a deeper understanding of our upcoming rival’s strengths and weaknesses?"
+    },
+    {
+        "query": "How do playoff standings and performance metrics inform our approach to training sessions before a game?"
+    },
+    {
+        "query": "What specific player metrics should be prioritized when assessing potential risks during an approaching game?"
+    },
+    {
+        "query": "How do historical performances translate into current tactical adjustments against specific teams?"
+    },
+    {
+        "query": "In what ways can the analytics of this data inform injury management leading up to match day?"
+    },
+    {
+        "query": "How does the team’s present metrics measure against the historical performance of past champions?"
+    },
+    {
+        "query": "What unique insights can be derived from team’s historical performance vs opponent data this season?"
+    },
+    {
+        "query": "What are critical metrics that are underperforming and need addressing to optimize team performance?"
+    },
+    {
+        "query": "How can we engage players to interpret performance data meaningfully and establish productive habits?"
+    },
+    {
+        "query": "How can existing data be utilized to predict post-season hurdles for the team?"
+    },
+    {
+        "query": "How does player performance data inform decisions on their development as playoffs approach?"
+    },
+    {
+        "query": "What developmental milestones should players prioritize as the team transitions into the playoff phase?"
+    },
+    {
+        "query": "How can performance analytics correlate with mental and physical readiness in preparing players for intense games?"
+    },
+    {
+        "query": "What steps can be taken to mitigate risks of player burnout as the season progresses?"
+    },
+    {
+        "query": "How could lessons learned from previous playoff scenarios aid in current team player development opportunities?"
+    },
+    {
+        "query": "What strategies or practices must be emphasized in training sessions given our current playoff aspirations?"
+    },
+    {
+        "query": "How do changes in player status and performance metrics necessitate communication around game-day readiness?"
+    },
+    {
+        "query": "How does the dataset reflect the overall health of the roster as we approach critical matchups?"
+    },
+    {
+        "query": "What should be the focus of player feedback sessions while analyzing competitive standings?"
+    },
+    {
+        "query": "In what ways can data serve as a foundation for team engagement and target adjustments across departments?"
+    }
+]

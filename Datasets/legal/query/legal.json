@@ -1,0 +1,377 @@
+[
+    {
+        "query": "How are regulatory compliance strategies reflected across different sections of the dataset?"
+    },
+    {
+        "query": "What sections document the procedures for ensuring compliance with new laws?"
+    },
+    {
+        "query": "Which entities have the most complex compliance requirements based on the dataset?"
+    },
+    {
+        "query": "How does the dataset address issues of non-compliance?"
+    },
+    {
+        "query": "Are there any sections that discuss updates to compliance requirements and procedures?"
+    },
+    {
+        "query": "What sections outline the risk management frameworks employed by the entities?"
+    },
+    {
+        "query": "How is risk assessed and prioritized according to the dataset?"
+    },
+    {
+        "query": "Which entities have the most comprehensive risk mitigation strategies?"
+    },
+    {
+        "query": "What are the common risk factors identified in the dataset?"
+    },
+    {
+        "query": "How does the dataset document the entities' responses to emerging risks?"
+    },
+    {
+        "query": "What are the key areas documented for reporting in the dataset?"
+    },
+    {
+        "query": "How do entities ensure the accuracy of their reports according to the dataset?"
+    },
+    {
+        "query": "What are the standard operating procedures for documentation in the dataset?"
+    },
+    {
+        "query": "How frequently are reports updated as per the dataset?"
+    },
+    {
+        "query": "Are there any guidelines provided for correcting reporting errors?"
+    },
+    {
+        "query": "How are internal audits structured across various sections of the dataset?"
+    },
+    {
+        "query": "Which sections detail the methods used for assessing operational efficiency?"
+    },
+    {
+        "query": "What performance metrics are commonly evaluated during audits?"
+    },
+    {
+        "query": "How does the dataset suggest handling discrepancies found during audits?"
+    },
+    {
+        "query": "Are there references to external audit requirements in the dataset?"
+    },
+    {
+        "query": "How does the dataset categorize third-party agreements?"
+    },
+    {
+        "query": "What sections highlight partnership evaluation criteria?"
+    },
+    {
+        "query": "Are there performance reviews of third parties included in the dataset?"
+    },
+    {
+        "query": "What are the key terms and conditions common to all third-party agreements?"
+    },
+    {
+        "query": "How does the dataset document the process for resolving disputes with partners?"
+    },
+    {
+        "query": "Which sections offer the most detailed insights into financial performance?"
+    },
+    {
+        "query": "How are revenue and expenditure trends documented in the dataset?"
+    },
+    {
+        "query": "What are the key financial indicators tracked across entities?"
+    },
+    {
+        "query": "Are there any sections dedicated to financial risk and its mitigation?"
+    },
+    {
+        "query": "How are financial forecasts produced and validated?"
+    },
+    {
+        "query": "What investment strategies are detailed in the dataset?"
+    },
+    {
+        "query": "How does the dataset reflect on past investment outcomes?"
+    },
+    {
+        "query": "Are there case studies or examples of successful investments?"
+    },
+    {
+        "query": "What are the risk factors associated with different investment types?"
+    },
+    {
+        "query": "How does the dataset approach the assessment of long-term investments?"
+    },
+    {
+        "query": "How is the budgeting process structured in the dataset?"
+    },
+    {
+        "query": "Which sections account for variances between budgeted and actual figures?"
+    },
+    {
+        "query": "What corrective actions are documented for budget discrepancies?"
+    },
+    {
+        "query": "How are forecasting models and assumptions documented?"
+    },
+    {
+        "query": "What insights does the dataset provide on financial discipline and accountability?"
+    },
+    {
+        "query": "How is cash flow management prioritized in the dataset?"
+    },
+    {
+        "query": "What are the cash flow insights provided for different periods?"
+    },
+    {
+        "query": "Which sections reflect on the efficiency of cash management?"
+    },
+    {
+        "query": "What contingencies are in place for unexpected cash shortages?"
+    },
+    {
+        "query": "How does the dataset document strategies to enhance cash flow?"
+    },
+    {
+        "query": "How is capital allocation among projects supported in the dataset?"
+    },
+    {
+        "query": "Are there examples of optimal and poor capital allocation decisions?"
+    },
+    {
+        "query": "What methodologies are used to evaluate the efficiency of capital allocation?"
+    },
+    {
+        "query": "How does the dataset address reallocating resources towards more productive investments?"
+    },
+    {
+        "query": "What role does stakeholder input play in capital allocation decisions?"
+    },
+    {
+        "query": "How is the compensation structure categorized across different roles?"
+    },
+    {
+        "query": "Which sections outline the standard benefits package detailed in the dataset?"
+    },
+    {
+        "query": "Are there notable variances in compensation across similar roles?"
+    },
+    {
+        "query": "What parameters are considered for periodic pay reviews?"
+    },
+    {
+        "query": "How does the dataset address equal pay and fairness?"
+    },
+    {
+        "query": "What types of training programs are highlighted in the dataset?"
+    },
+    {
+        "query": "How are training efficacy and employee development measured and reported?"
+    },
+    {
+        "query": "Are there any success stories or case studies related to employee development?"
+    },
+    {
+        "query": "How does the dataset account for the return on investment on training programs?"
+    },
+    {
+        "query": "What incentives are provided for self-development efforts?"
+    },
+    {
+        "query": "How are labor law changes and updates documented in the dataset?"
+    },
+    {
+        "query": "What methodologies are used to ensure compliance with HR legal requirements?"
+    },
+    {
+        "query": "Are case studies of past compliance challenges and solutions included?"
+    },
+    {
+        "query": "What mechanisms ensure employee safety and welfare?"
+    },
+    {
+        "query": "How are grievances being handled according to the dataset?"
+    },
+    {
+        "query": "What metrics and methods are used to evaluate employee performance?"
+    },
+    {
+        "query": "How are promotions and appraisals structured and validated?"
+    },
+    {
+        "query": "Which sections provide feedback mechanisms for performance management?"
+    },
+    {
+        "query": "What strategies are advised for dealing with underperformance?"
+    },
+    {
+        "query": "How is the impact of the appraisal process on employee morale addressed?"
+    },
+    {
+        "query": "How are change management strategies outlined in the dataset?"
+    },
+    {
+        "query": "What communication frameworks are highlighted to manage restructuring?"
+    },
+    {
+        "query": "Are there documented experiences of successful organizational restructuring?"
+    },
+    {
+        "query": "What key challenges and solutions are detailed for managing change?"
+    },
+    {
+        "query": "How is stakeholder engagement emphasized during restructuring events?"
+    },
+    {
+        "query": "How is market research integrated into the dataset?"
+    },
+    {
+        "query": "What trends and projections are outlined for market expansions?"
+    },
+    {
+        "query": "Which sections outline competitive analysis and positioning strategies?"
+    },
+    {
+        "query": "How does the dataset account for potential market entry barriers?"
+    },
+    {
+        "query": "What case studies are provided for successful market entries?"
+    },
+    {
+        "query": "What criteria are considered for selecting strategic partners?"
+    },
+    {
+        "query": "How are partnerships structured and evaluated according to the dataset?"
+    },
+    {
+        "query": "Which sections document the benefits and risks of alliances?"
+    },
+    {
+        "query": "What are the best practices for maintaining successful partnerships?"
+    },
+    {
+        "query": "How does the dataset deal with conflicts that arise in partnerships?"
+    },
+    {
+        "query": "How are innovation projects and milestones tracked in the dataset?"
+    },
+    {
+        "query": "What methodologies are highlighted for fostering creativity and innovation?"
+    },
+    {
+        "query": "What strategies are employed to manage product lifecycle effectively?"
+    },
+    {
+        "query": "How does the dataset address the balancing of innovation with resource constraints?"
+    },
+    {
+        "query": "What are the key performance indicators for innovation success?"
+    },
+    {
+        "query": "How are potential M&A targets identified and evaluated?"
+    },
+    {
+        "query": "What steps are required to integrate merged entities successfully?"
+    },
+    {
+        "query": "Which sections outline the criteria for evaluating M&A success?"
+    },
+    {
+        "query": "How does the dataset handle the due diligence process?"
+    },
+    {
+        "query": "What role do risk assessment and mitigation play in M&A activities?"
+    },
+    {
+        "query": "How are competitive threats, trends, and analysis presented in the dataset?"
+    },
+    {
+        "query": "What sections offer insights into competitor strategies and weaknesses?"
+    },
+    {
+        "query": "Which indicators signal emerging threats in existing markets?"
+    },
+    {
+        "query": "What role does consumer behavior play in dictating market dynamics?"
+    },
+    {
+        "query": "How does the dataset address responses to shifts in market dynamics?"
+    },
+    {
+        "query": "Which sections cover detailed documentation of IT infrastructure?"
+    },
+    {
+        "query": "How does the dataset identify technology gaps and needs?"
+    },
+    {
+        "query": "What strategies are discussed for system upgrades and enhancements?"
+    },
+    {
+        "query": "How is IT infrastructure aligned with overall business strategies?"
+    },
+    {
+        "query": "What metrics are used to evaluate IT system performance?"
+    },
+    {
+        "query": "How are cyber threats and vulnerabilities documented in the dataset?"
+    },
+    {
+        "query": "What existing cybersecurity policies are highlighted?"
+    },
+    {
+        "query": "Which sections address the framework for responding to breaches?"
+    },
+    {
+        "query": "What tools and technologies are cited as essential for cybersecurity?"
+    },
+    {
+        "query": "How are employees trained to understand and follow cybersecurity policies?"
+    },
+    {
+        "query": "How is data collected, stored, and managed according to the dataset?"
+    },
+    {
+        "query": "How does the dataset support advanced data analytics and reporting?"
+    },
+    {
+        "query": "Which tools are emphasized for data visualization and analysis?"
+    },
+    {
+        "query": "What are the data governance practices highlighted in the dataset?"
+    },
+    {
+        "query": "How is data quality and integrity maintained and ensured?"
+    },
+    {
+        "query": "What methods are used for monitoring and optimizing network performance?"
+    },
+    {
+        "query": "How are network issues identified and resolved according to the dataset?"
+    },
+    {
+        "query": "Which sections highlight best practices for network security?"
+    },
+    {
+        "query": "How is remote network access managed and secured?"
+    },
+    {
+        "query": "What are the key factors impacting network reliability and efficiency?"
+    },
+    {
+        "query": "What role does IT play in achieving strategic business outcomes?"
+    },
+    {
+        "query": "How are IT initiatives prioritized and aligned with business goals?"
+    },
+    {
+        "query": "Which sections discuss collaboration between IT and other departments?"
+    },
+    {
+        "query": "How are IT success metrics aligned with broader business performance indicators?"
+    },
+    {
+        "query": "What case studies demonstrate successful IT-business alignment?"
+    }
+]
