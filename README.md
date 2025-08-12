@@ -23,7 +23,7 @@ pip install llama_index==0.12.12
 
 ### Configuration
 
-Before running, you need to change some configuration information for `Config.py` in the `Steps` directory. The specific meaning of each parameter is described in the notes in the document.
+Before running, you need to change some configuration information for `Config.py` in the `Steps` directory. The specific meaning of each parameter is described in the notes in the document. We recommend not to modify the FG-RAG related configuration.
 
 ### Running
 
